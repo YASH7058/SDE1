@@ -1,6 +1,7 @@
 public class practise {
 
     public static void main(String[] args) {
-        System.err.println("hello yash kawale");
+        System.out.println("hii this is yash");
+
     }
 }
